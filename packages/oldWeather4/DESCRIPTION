@@ -1,0 +1,14 @@
+Package: oldWeather4
+Title: Analysis code library for oldWeather-whaling
+Version: 0.0.0.9000
+Authors@R: person("Philip", "Brohan", email = "philip@brohan.org", role = c("aut", "cre"))
+Description: Library functions for extraction of classifications from the
+  oldWeathert-whaling mongo database, and making diagnostics.
+Depends:
+   R (>= 3.0.1),
+    lubridate,
+    rmongodb,
+    grid,
+    jpeg
+License: Apache
+LazyData: true
