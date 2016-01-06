@@ -164,7 +164,7 @@ UpdateLayout<-function(old.layout,x,y,cls,aspect=1.5,border=0.05) {
 #' @param subject_index index of page to be drawn
 #' @param pg.width - viewport width in pixels
 #' @param pg.height - viewport height in pixels
-#' @param before - POSIXt date-time, if not NULL (default), draw
+#' @param before - string date-time, if not NULL (default), draw
 #'     only annotations from this time or earlier.
 DrawPage<-function(subject_id,pg.width, pg.height,before=NULL) {
 
@@ -191,7 +191,7 @@ img.scale<-1/max(img.width/pg.width,img.height/pg.height)
   ann <- mongo.find.all(mongo, "whaletales-production.classifications",q)
   for(i in seq_along(ann)) {
        if(is.null(ann[[i]]$annotation$color)) next # Not drawable
-       timestamp<-ymd_hms(ann[[i]]$finished_at) # Rounds to nearest second, good enough
+       timestamp<-ann[[i]]$finished_at # String format
        if(!is.null(before) && timestamp<before) next
        crgb<-c(0,0,0)
        if(nchar(ann[[i]]$annotation$color)>0) {
