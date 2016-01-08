@@ -23,11 +23,11 @@ while (mongo.cursor.next(cursor)) {
     count<-count+1
 }
 
-p1.time<-'2015-12-05T02:00:000Z'
-p2.time<-'2015-12-05T02:01:000Z'
+p1.time<-'2015-12-06T02:00:000Z'
+p2.time<-'2015-12-06T02:41:000Z'
 
 w<-which(finished_at<=p2.time & finished_at> p1.time)
-c.set<-ids[w]                   
+c.set<-unique(ids[w])                   
 
 page.width<-1080*4/3
 page.height<-1080
@@ -37,7 +37,7 @@ l1<-UpdateLayout(NULL,page.width,page.height,c.set)
 png(filename='tst_by_date.png',width=page.width,height=page.height,
     bg='white',pointsize=24)
     pushViewport(viewport(xscale=c(0,page.width),yscale=c(0,page.height)))
-    DrawLayout(l1,before=p2.time)
+    DrawLayout(l1,before=NULL)
     popViewport()
     DrawLabel(as.character(p2.time))
     dev.off()

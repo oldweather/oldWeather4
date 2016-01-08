@@ -192,7 +192,7 @@ img.scale<-1/max(img.width/pg.width,img.height/pg.height)
   for(i in seq_along(ann)) {
        if(is.null(ann[[i]]$annotation$color)) next # Not drawable
        timestamp<-ann[[i]]$finished_at # String format
-       if(!is.null(before) && timestamp<before) next
+       if(!is.null(before) && timestamp>before) next
        crgb<-c(0,0,0)
        if(nchar(ann[[i]]$annotation$color)>0) {
            crgb<-col2rgb(ann[[i]]$annotation$color)/255
