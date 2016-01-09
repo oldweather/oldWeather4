@@ -5,6 +5,7 @@
 use strict;
 use warnings;
 use MongoDB;
+use MongoDB::Connection;
 use MongoDB::OID;
 use boolean;
 
