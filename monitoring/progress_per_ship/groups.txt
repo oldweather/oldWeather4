@@ -1,0 +1,22 @@
+       Congress 1864: Stats  274 total,   22 retired (  8%); Marking   35 total,   23 retired ( 65%); Transcription  210 total,    4 retired (  1%).
+    Eliza Adams 1863: Stats 3323 total,  225 retired (  6%); Marking 1600 total,  226 retired ( 14%); Transcription  196 total,    1 retired (  0%).
+        Horatio 1896: Stats  376 total,  119 retired ( 31%); Marking  167 total,  127 retired ( 76%); Transcription   67 total,    4 retired (  5%).
+           Milo 1863: Stats  383 total,   19 retired (  4%); Marking   38 total,   19 retired ( 50%); Transcription  308 total,    1 retired (  0%).
+       Saratoga 1857: Stats  660 total,  160 retired ( 24%); Marking  204 total,  171 retired ( 83%); Transcription  278 total,    0 retired (  0%).
+        Trident 1869: Stats  347 total,   27 retired (  7%); Marking  101 total,   27 retired ( 26%); Transcription  160 total,    0 retired (  0%).
+Betsey Williams 1851: Stats  683 total,    3 retired (  0%); Marking   17 total,    9 retired ( 52%); Transcription  666 total,    1 retired (  0%).
+     Helen Snow 1871: Stats 1050 total,  154 retired ( 14%); Marking  435 total,  157 retired ( 36%); Transcription  234 total,    0 retired (  0%).
+         Seneca 1869: Stats  415 total,   18 retired (  4%); Marking   60 total,   18 retired ( 30%); Transcription  302 total,    1 retired (  0%).
+        Rosario 1891: Stats  344 total,   48 retired ( 13%); Marking  167 total,   49 retired ( 29%); Transcription   33 total,    0 retired (  0%).
+     John Wells 1869: Stats  200 total,   10 retired (  5%); Marking   36 total,   11 retired ( 30%); Transcription  136 total,    4 retired (  2%).
+            Progress: Stats  602 total,   72 retired ( 11%); Marking  263 total,   76 retired ( 28%); Transcription   99 total,    0 retired (  0%).
+        Grampus 1888: Stats  158 total,   16 retired ( 10%); Marking   25 total,   16 retired ( 64%); Transcription  110 total,    1 retired (  0%).
+        Grampus 1889: Stats  571 total,   18 retired (  3%); Marking  176 total,   18 retired ( 10%); Transcription  224 total,    0 retired (  0%).
+   Mary D. Hume 1890: Stats  437 total,   22 retired (  5%); Marking   58 total,   24 retired ( 41%); Transcription  332 total,    2 retired (  0%).
+        Newport 1893: Stats  366 total,    0 retired (  0%); Marking    1 total,    1 retired (100%); Transcription  366 total,    0 retired (  0%).
+         Beluga 1897: Stats 2531 total,  138 retired (  5%); Marking 1201 total,  138 retired ( 11%); Transcription  154 total,    1 retired (  0%).
+William Baylies 1905: Stats  321 total,   39 retired ( 12%); Marking   91 total,   39 retired ( 42%); Transcription  160 total,    0 retired (  0%).
+William Baylies 1906: Stats  322 total,   68 retired ( 21%); Marking  136 total,   76 retired ( 55%); Transcription   79 total,    3 retired (  3%).
+William Baylies 1907: Stats  441 total,   54 retired ( 12%); Marking  177 total,   57 retired ( 32%); Transcription  129 total,    0 retired (  0%).
+         Herman 1910: Stats  213 total,   23 retired ( 10%); Marking   28 total,   25 retired ( 89%); Transcription  160 total,    0 retired (  0%).
+         Herman 1911: Stats  201 total,   16 retired (  7%); Marking   21 total,   18 retired ( 85%); Transcription  162 total,    0 retired (  0%).
