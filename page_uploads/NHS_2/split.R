@@ -1,8 +1,8 @@
 # Cut the Albion of Fairhaven images into individual page files.
 
-photos<-Sys.glob('/data/local/hadpb/oW4.uploads/NHS_2/raw_images/*')
+photos<-Sys.glob('/Users/philip/LocalData/oW4.uploads/NHS_2/raw_images/*')
 
-uploads.dir<-'/data/local/hadpb/oW4.uploads/NHS_2/for_upload'
+uploads.dir<-'/Users/philip/LocalData/oW4.uploads/NHS_2/for_upload'
 if(!file.exists(uploads.dir)) dir.create(uploads.dir,recursive=TRUE)
 
 p1.coords<-list(x=c(850,3225),y=c(100,3575))
