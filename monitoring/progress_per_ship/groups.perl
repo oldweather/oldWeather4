@@ -27,6 +27,10 @@ while ( my $Set = $setI->next ) {
     my $Name = $Set->{name};
 
     my $finished = $Set->{stats}->{total_finished};
+    unless(defined($finished)) {
+	printf "%20s: Stats NA total, NA retired (NA%%); Marking NA total, NA retired (NA%%); Transcription NA total, NA retired (NA%%).\n",$Name;
+	next;
+    }
     my $pending  = $Set->{stats}->{total_pending};
     my $active1 =
       $Set->{stats}->{workflow_counts}->{'560466433937640006010000'}

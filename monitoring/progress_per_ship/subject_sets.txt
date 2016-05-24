@@ -1,24 +1,28 @@
-            congress: active. 2919 total, 2184 retired ( 74%)  708 active (  24%). Transcription 45271
-         eliza_adams: active. 4906 total, 4358 retired ( 88%)  538 active (  10%). Transcription 40990
-             horatio: active. 1192 total, 1073 retired ( 90%)   88 active (   7%). Transcription 13767
-                milo: active.  828 total,  550 retired ( 66%)  262 active (  31%). Transcription 62847
-            saratoga: active. 2663 total, 1555 retired ( 58%) 1059 active (  39%). Transcription 56369
-             trident: active. 1160 total,  623 retired ( 53%)  514 active (  44%). Transcription 31974
-     betsey_williams: active. 2707 total, 2840 retired (104%) -187 active (  -6%). Transcription 128593
-          helen_snow: active. 1542 total, 1518 retired ( 98%)  -18 active (  -1%). Transcription 43587
-              seneca: active. 2606 total, 1370 retired ( 52%) 1230 active (  47%). Transcription 55024
-             rosario: active. 1101 total,  918 retired ( 83%)  158 active (  14%). Transcription 5940
-          john_wells: active. 2417 total, 2106 retired ( 87%)  290 active (  11%). Transcription 24452
-            progress: active.  449 total,  403 retired ( 89%)   27 active (   6%). Transcription 17820
-           grampus_1: active. 1698 total,  955 retired ( 56%)  692 active (  40%). Transcription 19724
-           grampus_2: active. 1366 total,  960 retired ( 70%)  395 active (  28%). Transcription 40320
-           mary_hume: active. 2170 total,  864 retired ( 39%) 1293 active (  59%). Transcription 59672
-             newport: active.    1 total,    0 retired (  0%)    0 active (   0%). Transcription 65604
-              beluga: active. 4249 total, 2601 retired ( 61%) 1629 active (  38%). Transcription 27397
-   william_baylies_1: active. 1381 total,  699 retired ( 50%)  655 active (  47%). Transcription 28477
-   william_baylies_2: active. 1362 total,  634 retired ( 46%)  714 active (  52%). Transcription 14049
-   william_baylies_3: active. 1771 total,  755 retired ( 42%)  965 active (  54%). Transcription 22954
-            herman_1: active. 1410 total, 1519 retired (107%) -114 active (  -8%). Transcription 28316
-            herman_2: active. 1759 total, 1532 retired ( 87%)  217 active (  12%). Transcription 28629
-            congress: active.  119 total,  119 retired (100%)   -7 active (  -5%). Transcription  198
+            congress: active. 2919 total, 2632 retired ( 90%)  260 active (   8%). Transcription 45691
+         eliza_adams: active. 4906 total, 4948 retired (100%)  -52 active (  -1%). Transcription 41382
+             horatio: active. 1230 total, 1330 retired (108%) -133 active ( -10%). Transcription 13829
+                milo: active. 2185 total, 2096 retired ( 95%)   63 active (   2%). Transcription 63151
+            saratoga: active. 2663 total, 2614 retired ( 98%)   -1 active (   0%). Transcription 56647
+             trident: active. 2962 total, 3131 retired (105%) -209 active (  -7%). Transcription 32134
+     betsey_williams: active. 2707 total, 3076 retired (113%) -430 active ( -15%). Transcription 129259
+          helen_snow: active. 1560 total, 1704 retired (109%) -201 active ( -12%). Transcription 43813
+              seneca: active. 2606 total, 1955 retired ( 75%)  643 active (  24%). Transcription 55326
+             rosario: active. 1113 total, 1193 retired (107%) -115 active ( -10%). Transcription 5973
+          john_wells: active. 2417 total, 2699 retired (111%) -303 active ( -12%). Transcription 24588
+            progress: active. 2638 total, 1704 retired ( 64%)  905 active (  34%). Transcription 17919
+           grampus_1: active. 1896 total, 2182 retired (115%) -357 active ( -18%). Transcription 19833
+           grampus_2: active. 1376 total, 1555 retired (113%) -193 active ( -14%). Transcription 40543
+           mary_hume: active. 2199 total, 1061 retired ( 48%) 1124 active (  51%). Transcription 60004
+             newport: active.    1 total,    0 retired (  0%)    0 active (   0%). Transcription 65970
+              beluga: active. 4249 total, 4556 retired (107%) -326 active (  -7%). Transcription 27551
+   william_baylies_1: active. 2025 total, 2151 retired (106%) -155 active (  -7%). Transcription 28636
+   william_baylies_2: active. 1383 total, 1480 retired (107%) -116 active (  -8%). Transcription 14127
+   william_baylies_3: active. 1774 total, 1881 retired (106%) -159 active (  -8%). Transcription 23081
+            herman_1: active. 1419 total, 1550 retired (109%) -136 active (  -9%). Transcription 28442
+            herman_2: active. 1763 total, 1972 retired (111%) -221 active ( -12%). Transcription 28791
+            congress: active.  136 total,  133 retired ( 97%)   -8 active (  -5%). Transcription  176
          eliza_adams: active.    1 total,   38 retired (3800%)  -39 active (-3900%). Transcription    0
+            Albion 1: active.  315 total,  217 retired ( 68%)   97 active (  30%). Transcription   48
+            Albion 2: active.  119 total,   57 retired ( 47%)   61 active (  51%). Transcription   50
+            Albion 3: active.  102 total,   96 retired ( 94%)   -7 active (  -6%). Transcription   50
+            Albion 4: active.  171 total,  151 retired ( 88%)   13 active (   7%). Transcription   36

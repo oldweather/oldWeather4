@@ -17,6 +17,10 @@ Betsey Williams 1851: Stats  683 total,    3 retired (  0%); Marking   17 total,
          Beluga 1897: Stats 2531 total,  138 retired (  5%); Marking 1201 total,  138 retired ( 11%); Transcription  154 total,    1 retired (  0%).
 William Baylies 1905: Stats  321 total,   39 retired ( 12%); Marking   91 total,   39 retired ( 42%); Transcription  160 total,    0 retired (  0%).
 William Baylies 1906: Stats  322 total,   68 retired ( 21%); Marking  136 total,   76 retired ( 55%); Transcription   79 total,    3 retired (  3%).
+       Albion part 1: Stats NA total, NA retired (NA%); Marking NA total, NA retired (NA%); Transcription NA total, NA retired (NA%).
 William Baylies 1907: Stats  441 total,   54 retired ( 12%); Marking  177 total,   57 retired ( 32%); Transcription  129 total,    0 retired (  0%).
          Herman 1910: Stats  213 total,   23 retired ( 10%); Marking   28 total,   25 retired ( 89%); Transcription  160 total,    0 retired (  0%).
          Herman 1911: Stats  201 total,   16 retired (  7%); Marking   21 total,   18 retired ( 85%); Transcription  162 total,    0 retired (  0%).
+       Albion part 2: Stats NA total, NA retired (NA%); Marking NA total, NA retired (NA%); Transcription NA total, NA retired (NA%).
+       Albion part 3: Stats NA total, NA retired (NA%); Marking NA total, NA retired (NA%); Transcription NA total, NA retired (NA%).
+       Albion part 4: Stats NA total, NA retired (NA%); Marking NA total, NA retired (NA%); Transcription NA total, NA retired (NA%).
