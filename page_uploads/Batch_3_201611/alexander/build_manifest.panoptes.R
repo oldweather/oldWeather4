@@ -1,4 +1,4 @@
-# Make the manifest CSV files for the Albion of Fairhaven images
+# Make the manifest CSV files for the Alexander images
 
 for(part in c(1,2,3,4,5)) {
 

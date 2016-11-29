@@ -1,4 +1,4 @@
-# Make the scribe CSV files for the Alexander images
+# Make the scribe CSV files for the Herman images
 
 library(jpeg)
 
@@ -7,10 +7,10 @@ panoptes<-read.csv('../../old-weather-subjects.csv')
 
 for(part in c(1,2,3,4,5)) {
 
-    log.files<-Sys.glob(sprintf("%s/oW4_logbooks/Batch_3_201611/alexander/for_upload_pt%d/*.jpg",Sys.getenv('SCRATCH'),part))
+    log.files<-Sys.glob(sprintf("%s/oW4_logbooks/Batch_3_201611/herman/for_upload_pt%d/*.jpg",Sys.getenv('SCRATCH'),part))
 
     # Redirect ouput to the manifest file
-    sink(sprintf("group_alexander_pt%d.csv",part))
+    sink(sprintf("group_herman_pt%d.csv",part))
     cat('order,set_key,file_path,thumbnail,width,height,date_created,zooniverse_id\n')
     for(i in seq_along(log.files)) {
 
@@ -24,7 +24,7 @@ for(part in c(1,2,3,4,5)) {
                 panoptes$locations[w[2]])
      p.thumb<-regmatches(panoptes$locations[w[2]],r)
       cat(i,',',sep="")
-      cat(sprintf ('Alexander %d,',part))
+      cat(sprintf ('Herman %d,',part))
       cat(p.main,',',sep="")
       cat(p.thumb,',',sep="")
       cat(dim(im)[2],',',sep="")
