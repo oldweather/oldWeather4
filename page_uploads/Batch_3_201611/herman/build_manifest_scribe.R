@@ -5,7 +5,7 @@ library(jpeg)
 # Get the panoptes subject data
 panoptes<-read.csv('../../old-weather-subjects.csv')
 
-for(part in c(1,2,3,4,5)) {
+for(part in c(1,2)) {
 
     log.files<-Sys.glob(sprintf("%s/oW4_logbooks/Batch_3_201611/herman/for_upload_pt%d/*.jpg",Sys.getenv('SCRATCH'),part))
 
