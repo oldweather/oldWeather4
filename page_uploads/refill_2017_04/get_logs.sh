@@ -21,3 +21,6 @@ tar xf logbookofwilliam00will_3_orig_jp2.tar
 wget https://archive.org/download/williambayliesst00will/williambayliesst00will_orig_jp2.tar
 tar xf williambayliesst00will_orig_jp2.tar
 #rm williambayliesst00will_orig_jp2.tar
+
+moo get moose:/adhoc/users/philip.brohan/logbook_images/oW_Whaling/OWW2-20170428T092040Z-001.zip .
+unzip -DD OWW2-20170428T092040Z-001.zip
